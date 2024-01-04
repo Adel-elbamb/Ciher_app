@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "jsencrypt": "^3.3.2"
+  },
+  "name": "ceaser",
+  "version": "1.0.0",
+  "main": "ceasser.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "commonjs",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
